@@ -1,0 +1,41 @@
+/*
+ Theme Name:   WP Coupon Child
+ Theme URI:    https://www.famethemes.com
+ Description:  WP Coupon sample child theme
+ Author:       FameThemes
+ Author URI:   https://www.famethemes.com
+ Template:     wp-coupon
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  wp-coupon-child
+*/
+
+/* Add your custom css below
+Just make a green theme ;)
+-------------------------------------------------------------- */
+
+body a {
+    color: #589f37;
+}
+#header-search .header-search-submit {
+    background-color: #589f37;
+}
+.st-menu a:hover {
+    color: #589f37;
+}
+.newsletter-box-wrapper.shadow-box .input .ui.button {
+    background: #589f37;
+}
+
+.store-listing-item .latest-coupon .coupon-title a {
+    color: #589f37;
+}
+.site-footer a:hover {
+    color: #589f37;
+}
+.coupon-button-type .coupon-code .get-code::after {
+    border-left-color: #589f37;
+}
+.coupon-button-type .coupon-code .get-code {
+    background: #589f37;
+}
